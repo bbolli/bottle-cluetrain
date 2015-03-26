@@ -488,3 +488,5 @@ mit denen wir uns ausbremsen.""",
 beobachten, aber wir warten nicht."""
     ),
 }
+
+languages = theses.keys()
